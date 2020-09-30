@@ -1,0 +1,4 @@
+Lexer\Token.class
+Lexer\SyntaxKind.class
+TestMain.class
+Lexer\Lexer.class
